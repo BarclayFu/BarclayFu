@@ -1,4 +1,7 @@
 ## Hi there! Welcome to my page!👋
+
+![Chika](https://media.tenor.com/FizHGRy55igAAAAC/chika-wow.gif)
+
 I am 付思哲 Sizhe Fu. 😆
 
 From 🇨🇳Shenyang, China 🛫, currently living in 🇺🇸Pittsburgh, USA 🛬
