@@ -35,6 +35,11 @@ Things I code with:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)
+
+## My Projects!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
+
+
 ## Quick facts about me!
 
 - (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/)).
@@ -51,8 +56,6 @@ Things I code with:
 [![Linedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sizhe-fu-3b5a88143/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Sizhe_Fu/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarclayFu)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarclayFu)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BarclayFu)](https://git.io/streak-stats)
