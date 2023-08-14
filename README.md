@@ -57,7 +57,7 @@ Things I code with:
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Sizhe_Fu/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarclayFu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarclayFu)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarclayFu&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BarclayFu)](https://git.io/streak-stats)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BarclayFu)
