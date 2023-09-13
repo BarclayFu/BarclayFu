@@ -39,6 +39,8 @@ Things I code with:
 ## My Projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=database-final-project)](https://github.com/BarclayFu/database-final-project)
+
 ## Quick facts about me!
 
 - (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/)).
