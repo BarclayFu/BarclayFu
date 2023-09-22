@@ -43,7 +43,7 @@ Things I code with:
 
 ## Quick facts about me!
 
-- (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/)).
+- (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/))(One of the 42 "Double First-Class" Universities in China).
 - I speak Mandarin & English!（I'm trying to learn some Japanese and Manchu.）🧐
 - Guitar 🎸/ Chess ♟️ / Ping-pong 🏓 / Swimming 🏊‍♂️
 - ACG Lover! (EL PSY CONGROO!) I've used FL studio and VOCALOID3 (Luo Tianyi & Hatsune Miku) for composition before! 
