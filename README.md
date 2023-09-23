@@ -58,6 +58,8 @@ Things I code with:
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Sizhe_Fu/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarclayFu)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sizhe_Fu?theme=light&ext=heatmap)](https://leetcode.com/Sizhe_Fu/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarclayFu&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BarclayFu)](https://git.io/streak-stats)
 
