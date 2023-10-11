@@ -39,9 +39,10 @@ Things I code with:
 ## My Projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=database-final-project)](https://github.com/BarclayFu/database-final-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=SimpleBank)](https://github.com/BarclayFu/SimpleBank)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=database-final-project)](https://github.com/BarclayFu/database-final-project)
+
 
 ## Quick facts about me!
 
