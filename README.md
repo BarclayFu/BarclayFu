@@ -35,6 +35,7 @@ Things I code with:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## My Projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
