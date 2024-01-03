@@ -39,6 +39,8 @@ Things I code with:
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+For more information about me, please check my [blog](https://barclayfu.github.io/)! 
+
 ## My Projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
 
