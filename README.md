@@ -41,6 +41,9 @@ Things I code with:
 
 For more information about me, please check my [blog](https://barclayfu.github.io/)! 
 
+Recent Update:
+[![](https://s2.loli.net/2024/01/04/F6f9HMr4tYmWTzA.png)](https://barclayfu.github.io/)
+
 ## My Projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=TicketingApp)](https://github.com/BarclayFu/TicketingApp)
 
