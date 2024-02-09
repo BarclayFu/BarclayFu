@@ -39,6 +39,9 @@ Things I code with:
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+![:name](https://count.getloli.com/get/@BarclayFu?theme=gelbooru)
+
+
 For more information about me, please check my [blog](https://barclayfu.github.io/)! 
 
 Recent Update:
