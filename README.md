@@ -42,6 +42,18 @@ Things I code with:
 ![:name](https://count.getloli.com/get/@BarclayFu?theme=gelbooru)
 
 
+## Quick facts about me!
+
+- (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/))(One of the 42 "Double First-Class" Universities in China).
+- I speak Mandarin & English!（I'm trying to learn some Japanese and Manchu.）🧐
+- Guitar 🎸/ Chess ♟️ / Ping-pong 🏓 / Swimming 🏊‍♂️
+- ACG Lover! (EL PSY CONGROO!) I've used FL studio and VOCALOID3 (Luo Tianyi & Hatsune Miku) for composition before! 
+- I have a 🐩 Toy poodle at home！
+- Yakuza & Zelda & BF1 & CS:GO enjoyer 🎮
+![Nintendo](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Oringin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
+![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 ## Currently working on 🧑‍💻
 
@@ -55,18 +67,6 @@ Things I code with:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=database-final-project)](https://github.com/BarclayFu/database-final-project)
 
 
-## Quick facts about me!
-
-- (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/))(One of the 42 "Double First-Class" Universities in China).
-- I speak Mandarin & English!（I'm trying to learn some Japanese and Manchu.）🧐
-- Guitar 🎸/ Chess ♟️ / Ping-pong 🏓 / Swimming 🏊‍♂️
-- ACG Lover! (EL PSY CONGROO!) I've used FL studio and VOCALOID3 (Luo Tianyi & Hatsune Miku) for composition before! 
-- I have a 🐩 Toy poodle at home！
-- Yakuza & Zelda & BF1 & CS:GO enjoyer 🎮
-![Nintendo](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Oringin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
-![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 ## Contact me!
 [![Linedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sizhe-fu-3b5a88143/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Sizhe_Fu/)
@@ -79,7 +79,7 @@ Things I code with:
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BarclayFu)
 
-For more information about me, please check my [blog](https://barclayfu.github.io/)! 
+## For more information about me, please check my [blog](https://barclayfu.github.io/)! 
 
 Recent Update:
 [![](https://s2.loli.net/2024/01/04/F6f9HMr4tYmWTzA.png)](https://barclayfu.github.io/)
