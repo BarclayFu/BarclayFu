@@ -42,10 +42,6 @@ Things I code with:
 ![:name](https://count.getloli.com/get/@BarclayFu?theme=gelbooru)
 
 
-For more information about me, please check my [blog](https://barclayfu.github.io/)! 
-
-Recent Update:
-[![](https://s2.loli.net/2024/01/04/F6f9HMr4tYmWTzA.png)](https://barclayfu.github.io/)
 
 ## Currently working on 🧑‍💻
 
@@ -82,3 +78,8 @@ Recent Update:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BarclayFu)](https://git.io/streak-stats)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BarclayFu)
+
+For more information about me, please check my [blog](https://barclayfu.github.io/)! 
+
+Recent Update:
+[![](https://s2.loli.net/2024/01/04/F6f9HMr4tYmWTzA.png)](https://barclayfu.github.io/)
