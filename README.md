@@ -8,6 +8,12 @@ From 🇨🇳Shenyang, China 🛫, currently living in 🇺🇸Pittsburgh, USA �
 
 Seeking to become an excellent full stack software engineer! 👾
 
+|                         Code🧑‍💻                         |                              Life☕️                              |
+| :---------------------------------------------------: | :-------------------------------------------------------------: |
+|     [Leetcode](https://leetcode.com/u/Sizhe_Fu/)💡     | TG Channel([@BarclaysRambling](https://t.me/BarclaysRambling))🔮 |
+|   [Sizhe Blog](https://blog.barclayfu.cloudns.be/)🌎   |             [TG Blog](https://tg.barclayfu.us.kg/)🗞️             |
+| <a href="mailto:meow@barclayfu.cloudns.be">Email</a>✉️ |    [Barclay的写意Writee博客](https://writee.org/barclayfu/)📝    |
+
 Things I code with:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
