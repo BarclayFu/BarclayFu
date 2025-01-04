@@ -8,11 +8,11 @@ From 🇨🇳Shenyang, China 🛫, currently living in 🇺🇸Pittsburgh, USA �
 
 Seeking to become an excellent full stack software engineer! 👾
 
-|                         Code🧑‍💻                         |                              Life☕️                              |
-| :---------------------------------------------------: | :-------------------------------------------------------------: |
-|     [Leetcode](https://leetcode.com/u/Sizhe_Fu/)💡     | TG Channel([@BarclaysRambling](https://t.me/BarclaysRambling))🔮 |
-|   [Sizhe Blog](https://blog.barclayfu.cloudns.be/)🌎   |             [TG Blog](https://tg.barclayfu.us.kg/)🗞️             |
-| <a href="mailto:meow@barclayfu.cloudns.be">Email</a>✉️ |    [Barclay的写意Writee博客](https://writee.org/barclayfu/)📝    |
+|                         Code🧑‍💻                         |                              Life☕️                              |                        SNS🗻                        |
+| :---------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------: |
+|     [Leetcode](https://leetcode.com/u/Sizhe_Fu/)💡     | TG Channel([@BarclaysRambling](https://t.me/BarclaysRambling))🔮 | [LINUX DO](https://linux.do/u/barclay_fu/summary)🍻 |
+|   [Sizhe Blog](https://blog.barclayfu.cloudns.be/)🌎   |             [TG Blog](https://tg.barclayfu.us.kg/)🗞️             | [LinkedIn](https://www.linkedin.com/in/sizhe-fu/)💼 |
+| <a href="mailto:meow@barclayfu.cloudns.be">Email</a>✉️ |    [Barclay的写意Writee博客](https://writee.org/barclayfu/)📝    |           Barclay的照片墙 (锐意制作中) 🖼️           |
 
 Things I code with:
 
