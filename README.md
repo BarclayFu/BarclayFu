@@ -1,4 +1,4 @@
-## Hi there! Welcome to my page!👋
+## Hi there! Welcome to my page!👋![](https://www.angelfire.lycos.com/doc/images/animate/globe2.gif)
 
 ![Chika](https://media.tenor.com/FizHGRy55igAAAAC/chika-wow.gif)
 
@@ -7,6 +7,17 @@ I am 付思哲 Sizhe Fu. 😆
 From 🇨🇳Shenyang, China 🛫, currently living in 🇺🇸Pittsburgh, USA 🛬
 
 Seeking to become an excellent full stack software engineer! 👾
+
+![](https://cyber.dabamos.de/88x31/2001.gif)
+![](https://cyber.dabamos.de/88x31/besteyes3.gif)
+![](https://cyber.dabamos.de/88x31/e-scp.gif)
+![](https://cyber.dabamos.de/88x31/geocities_area_51.gif)
+![](https://cyber.dabamos.de/88x31/javanow.gif)
+![](https://cyber.dabamos.de/88x31/nodrugs.gif)
+![](https://cyber.dabamos.de/88x31/noerror.gif)
+![](https://cyber.dabamos.de/88x31/subculture8831.gif)
+![](https://cyber.dabamos.de/88x31/smile.gif)
+![](https://cyber.dabamos.de/88x31/sm_fever_button.gif)
 
 |                         Code🧑‍💻                         |                              Life☕️                              |                         SNS🗻                          |
 | :---------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------------------------------: |
