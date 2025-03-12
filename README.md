@@ -11,7 +11,6 @@ Seeking to become an excellent full stack software engineer! 👾
 ![](https://cyber.dabamos.de/88x31/2001.gif)
 ![](https://cyber.dabamos.de/88x31/besteyes3.gif)
 ![](https://cyber.dabamos.de/88x31/e-scp.gif)
-![](https://cyber.dabamos.de/88x31/geocities_area_51.gif)
 ![](https://cyber.dabamos.de/88x31/javanow.gif)
 ![](https://cyber.dabamos.de/88x31/nodrugs.gif)
 ![](https://cyber.dabamos.de/88x31/noerror.gif)
