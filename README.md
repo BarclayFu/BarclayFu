@@ -18,11 +18,11 @@ Seeking to become an excellent full stack software engineer! 👾
 ![](https://cyber.dabamos.de/88x31/smile.gif)
 ![](https://cyber.dabamos.de/88x31/sm_fever_button.gif)
 
-|                         Code🧑‍💻                         |                              Life☕️                              |                         SNS🗻                          |
-| :---------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------------------------------: |
-|     [Leetcode](https://leetcode.com/u/Sizhe_Fu/)💡     | TG Channel([@BarclaysRambling](https://t.me/BarclaysRambling))🔮 |  [LINUX DO](https://linux.do/u/barclay_fu/summary)🍻   |
-|   [Sizhe Blog](https://blog.barclayfu.cloudns.be/)🌎   |             [TG Blog](https://tg.barclayfu.us.kg/)🗞️             |  [LinkedIn](https://www.linkedin.com/in/sizhe-fu/)💼   |
-| <a href="mailto:meow@barclayfu.cloudns.be">Email</a>✉️ |    [Barclay的写意Writee博客](https://writee.org/barclayfu/)📝    | [Barclay的照片墙](https://gallery.barclayfu.us.kg/) 🖼️ |
+|                         Code🧑‍💻                         |                              Life☕️                              |                        SNS🗻                        |
+| :---------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------: |
+|     [Leetcode](https://leetcode.com/u/Sizhe_Fu/)💡     | TG Channel([@BarclaysRambling](https://t.me/BarclaysRambling))🔮 | [LINUX DO](https://linux.do/u/barclay_fu/summary)🍻 |
+|   [Sizhe Blog](https://blog.barclayfu.cloudns.be/)🌎   |               [TG Blog](https://tg.sizhefu.com/)🗞️               | [LinkedIn](https://www.linkedin.com/in/sizhe-fu/)💼 |
+| <a href="mailto:meow@barclayfu.cloudns.be">Email</a>✉️ |    [Barclay的写意Writee博客](https://writee.org/barclayfu/)📝    | [Barclay的照片墙](https://gallery.sizhefu.com/) 🖼️  |
 
 Things I code with:
 
