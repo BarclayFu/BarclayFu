@@ -59,7 +59,6 @@ Things I code with:
 
 
 ## Quick facts about me!
-![玩原神玩的](https://ys.himiku.com/rand/74495470.png)
 
 - (Current) Master student at 🇺🇸Pitt（[University of Pittsburgh](https://www.pitt.edu/)), MSc in Information Science. Expected to graduate in May 2024. I got my bachelor's degree from 🇨🇳ZZU ([Zhengzhou University](http://www.zzu.edu.cn/))(One of the 42 "Double First-Class" Universities in China).
 - I speak Mandarin & English!（I'm trying to learn some Japanese and Manchu.）🧐
@@ -72,6 +71,7 @@ Things I code with:
 ![Oringin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
 ![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
+![玩原神玩的](https://ys.himiku.com/rand/74495470.png)
 ## Currently working on 🧑‍💻
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarclayFu&repo=SCL)](https://github.com/BarclayFu/ACSES)
